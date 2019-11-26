@@ -1,0 +1,35 @@
+digraph b{
+18->8; 
+18 [style=filled, fillcolor= grey65] ;
+8 [style=filled, fillcolor= grey65] ;
+8->5; 
+8 [style=filled, fillcolor= grey65] ;
+5 [style=filled, fillcolor= grey65] ;
+8->15;
+8 [style=filled, fillcolor= grey65] ;
+15 [style=filled, fillcolor= grey65] ;
+18->1235;
+18 [style=filled, fillcolor= grey65] ;
+1235 [style=filled, fillcolor= grey65] ;
+1235->234; 
+1235 [style=filled, fillcolor= grey65] ;
+234 [style=filled, fillcolor= crimson] ;
+234->135; 
+234 [style=filled, fillcolor= crimson] ;
+135 [style=filled, fillcolor= grey65] ;
+234->430;
+234 [style=filled, fillcolor= crimson] ;
+430 [style=filled, fillcolor= grey65] ;
+430->254; 
+430 [style=filled, fillcolor= grey65] ;
+254 [style=filled, fillcolor= crimson] ;
+430->840;
+430 [style=filled, fillcolor= grey65] ;
+840 [style=filled, fillcolor= crimson] ;
+1235->1324;
+1235 [style=filled, fillcolor= grey65] ;
+1324 [style=filled, fillcolor= grey65] ;
+1324->1743;
+1324 [style=filled, fillcolor= grey65] ;
+1743 [style=filled, fillcolor= crimson] ;
+}
