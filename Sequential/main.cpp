@@ -495,7 +495,6 @@ void dioutput(struct Node * head)
 }	
 
 
-
 int main() {
 	RBTree bst;
 	bst.insert(8);
